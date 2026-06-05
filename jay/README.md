@@ -9,4 +9,4 @@
 
 #### 📢 발표 내용:
 - 5/18: [MySQL의 InnoDB는 어떻게 성능을 향상시킬까?](https://rounded-palm-33d.notion.site/MySQL-InnoDB-362f49fb6e0c80f39112ed017dde981b?source=copy_link)
-
+- 6/5: [방탈출 예약 동시성 제어 방식 검토](https://rounded-palm-33d.notion.site/376f49fb6e0c80edbe60e913b6399228?source=copy_link)
